@@ -92,7 +92,7 @@ No minimum. `RTK_REWRITE_HOST` travels in the environment rather than in argv pr
 
 ## What gets rewritten
 
-Everything that `rtk rewrite` supports. See [what RTK covers](https://www.rtk-ai.app/guide/resources/what-rtk-covers).
+Everything that `rtk rewrite` supports. See [what RTK covers](https://www.rtk-ai.app/docs/resources/what-rtk-covers/).
 
 ## What's NOT rewritten
 
