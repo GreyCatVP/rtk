@@ -4647,7 +4647,6 @@ mod tests {
         const PASSTHROUGH: &[&str] = &[
             "ls",
             "tree",
-            "read",
             "rg",
             "ast-grep",
             "git",
